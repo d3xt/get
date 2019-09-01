@@ -1,0 +1,21 @@
+{
+  "name": "get",
+  "version": "1.0.0",
+  "description": "Simple ts function to get a nested value from an unknown object",
+  "scripts": {
+    "test": "alsatian ./src/*.test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3xt/get.git"
+  },
+  "bugs": {
+    "url": "https://github.com/d3xt/get/issues"
+  },
+  "homepage": "https://github.com/d3xt/get#readme",
+  "devDependencies": {
+    "alsatian": "^3.0.1",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.6.2"
+  }
+}
